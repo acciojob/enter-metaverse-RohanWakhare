@@ -1,8 +1,5 @@
 //your JS code here. If required.
 
-
-
-
 <script>
 
   document.getElementById("enterBtn").addEventListener("click", function () {
